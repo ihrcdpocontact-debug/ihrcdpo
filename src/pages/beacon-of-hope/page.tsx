@@ -118,7 +118,7 @@ export default function BeaconOfHopePage() {
               <Mail />
               <p>contact@ihrcdpo.com</p>
               <Phone />
-              <p>(+91) 9000700741</p>
+              <p>(+91) 8374892433</p>
             </div>            <div className="flex items-center space-x-4">
               <FaFacebookF />
               <FaThreads />
@@ -390,7 +390,10 @@ export default function BeaconOfHopePage() {
                 Email: contact@ihrcdpo.com
               </p>
               <p className="text-gray-400 text-sm leading-relaxed">
-                Phone: (+91) 9000700741
+                Phone: (+91) 8374892433
+              </p>
+              <p className="text-gray-400 text-sm leading-relaxed">
+                Phone: (+91) 9505413133
               </p>
             </div>
           </div>

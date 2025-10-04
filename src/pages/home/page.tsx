@@ -285,7 +285,7 @@ export default function HomePage() {
                   <MailIcon />
                   <p>contact@ihrcdpo.com</p>
                   <Phone />
-                  <p>(+91) 9000700741</p>
+                  <p>(+91) 8374892433</p>
                 </div>                <div className="flex items-center space-x-4">
                   <FaFacebookF />
                   <FaThreads />
@@ -829,8 +829,8 @@ export default function HomePage() {
                   <span className="mt-1">
                     <Phone className="h-6 w-6 text-white" />
                   </span>                  <span>
-                    Phone (+91) 9000700741<br />
-                    Phone (+91) 9000700739
+                    Phone (+91) 8374892433<br />
+                    Phone (+91) 9505413133
                   </span>
                 </li>
                 <li className="flex items-start gap-4">

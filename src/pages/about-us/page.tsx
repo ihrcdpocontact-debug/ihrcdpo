@@ -172,7 +172,7 @@ export default function AboutUsPage() {
               <Mail />
               <p>contact@ihrcdpo.com</p>
               <Phone />
-              <p>(+91) 9000700741</p>
+              <p>(+91) 8374892433</p>
             </div>            <div className="flex items-center space-x-4">
               <FaFacebookF />
               <FaThreads />
@@ -380,8 +380,8 @@ export default function AboutUsPage() {
                     <Phone className="h-5 w-5 text-white" />
                   </div>                  <div>
                     <h4 className="text-white font-bold">Contact Us</h4>
-                    <p className="text-gray-300">(+91) 9000700741</p>
-                    <p className="text-gray-300">(+91) 9000700739</p>
+                    <p className="text-gray-300">(+91) 8374892433</p>
+                    <p className="text-gray-300">(+91) 9505413133</p>
                   </div>
                 </div>
 
@@ -455,8 +455,8 @@ export default function AboutUsPage() {
                   <span className="mt-1">
                     <Phone className="h-6 w-6 text-white" />
                   </span>                  <span>
-                    Phone (+91) 9000700741<br />
-                    Phone (+91) 9000700739
+                    Phone (+91) 8374892433<br />
+                    Phone (+91) 9505413133
                   </span>
                 </li>
                 <li className="flex items-start gap-4">

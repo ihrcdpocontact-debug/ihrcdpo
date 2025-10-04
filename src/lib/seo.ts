@@ -93,9 +93,9 @@ export const pageSEOConfig = {
   },
   
   contact: {
-    title: "Contact Us - IHRCDPO | Get in Touch | Bhongir, Telangana | +91-9000700741",
-    description: "Contact IHRCDPO for support, partnerships, or inquiries. Located in Bhongir, Yadadri Bhongir District, Telangana. Phone: +91-9000700741, Email: contact@ihrcdpo.com",
-    keywords: "contact IHRCDPO, IHRCDPO Bhongir address, phone number +91-9000700741, email contact@ihrcdpo.com, Gayatri Co-Operative Urban Bank Railway Station Bhongir, Telangana contact, human rights organization contact",
+    title: "Contact Us - IHRCDPO | Get in Touch | Bhongir, Telangana | +91-8374892433",
+    description: "Contact IHRCDPO for support, partnerships, or inquiries. Located in Bhongir, Yadadri Bhongir District, Telangana. Phone: +91-8374892433, Email: contact@ihrcdpo.com",
+    keywords: "contact IHRCDPO, IHRCDPO Bhongir address, phone number +91-8374892433, email contact@ihrcdpo.com, Gayatri Co-Operative Urban Bank Railway Station Bhongir, Telangana contact, human rights organization contact",
     canonicalUrl: "https://ihrcdpo.com/contact"
   },
   
