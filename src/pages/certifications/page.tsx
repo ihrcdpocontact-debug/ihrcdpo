@@ -267,8 +267,7 @@ export default function CertificationsPage() {
                     <Phone className="h-6 w-6 text-white" />
                   </span>
                   <span>
-                    Phone (+91) 8374892433<br />
-                    Phone (+91) 9505413133
+                    Phone (+91) 8374892433
                   </span>
                 </li>
                 <li className="flex items-start gap-4">

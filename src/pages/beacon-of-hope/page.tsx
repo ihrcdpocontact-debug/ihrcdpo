@@ -392,9 +392,6 @@ export default function BeaconOfHopePage() {
               <p className="text-gray-400 text-sm leading-relaxed">
                 Phone: (+91) 8374892433
               </p>
-              <p className="text-gray-400 text-sm leading-relaxed">
-                Phone: (+91) 9505413133
-              </p>
             </div>
           </div>
           <div className="border-t border-white/20 mt-12 mb-4"></div>
