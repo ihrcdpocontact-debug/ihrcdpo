@@ -15,7 +15,7 @@ import hrManagerImg from '../../images/about/HrManager.png'
 import publicRelationImg from '../../images/about/publicRelation.png'
 import socialCounselorImg from '../../images/about/socialCounselor.png'
 import { ContactForm } from "../../components/contact-form"
-import secrateryImg from '../../images/about/secratery.png'
+// import secrateryImg from '../../images/about/secratery.png'
 import viceChairImg from '../../images/about/viceChairman.jpg'
 
 export default function AboutUsPage() {
@@ -46,12 +46,13 @@ export default function AboutUsPage() {
       title: "Vice President (Head of Organization)",
       image: vicePresImg,
       hasImage: true
-    },    {
-      name: "Vasam Nikhil Kumar",
-      title: "Principal Secretary (Head of Organization)",
-      image: secrateryImg,
-      hasImage: true
-    },    {
+    },    
+    // {
+    //   name: "Vasam Nikhil Kumar",
+    //   title: "Principal Secretary (Head of Organization)",
+    //   image: secrateryImg,
+    //   hasImage: tru },
+        {
       name: "MD. Adil Kaif Khan",
       title: "Chief Executive Officer (Head of Organization)",
       image: ceoImg,
